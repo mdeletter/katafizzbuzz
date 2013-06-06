@@ -1,15 +1,27 @@
 <?php
 header('Content-Type: text/plain');
 
-for ($i=1; $i <= 100 ; $i++) {
-    if ($i % 3 == 0 && $i % 5 == 0){
-        print 'FizzBuzz';
-    } elseif ($i % 3 == 0){
-        print 'Fizz';
-    } elseif ($i % 5 == 0){
-        print 'Buzz';
-    } else {
-        print $i;
+class kataFizzBuzz
+{
+    public $lines  = array();
+
+    public function run()
+    {
+        for ($i=1; $i <= 100 ; $i++) {
+            if ($i % 3 == 0 && $i % 5 == 0){
+                $this->lines[$i] = 'fizzbuzz';
+            } elseif ($i % 3 == 0){
+                $this->lines[$i] = 'fizz';
+            } elseif ($i % 5 == 0){
+                $this->lines[$i] = 'buzz';
+            } else {
+                $this->lines[$i] = $i;
+            }
+        }
     }
-    print PHP_EOL;
+
+    public function printOutput()
+    {
+        echo implode(PHP_EOL,$this->lines);
+    }
 }
