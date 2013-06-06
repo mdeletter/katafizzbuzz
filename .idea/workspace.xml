@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509fd80b-d917-4cd1-9b4f-7da6082fb4ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katafizzbuzz.test.php" afterPath="$PROJECT_DIR$/katafizzbuzz.test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="509fd80b-d917-4cd1-9b4f-7da6082fb4ce" name="Default" comment="" />
     <ignored path="fizzbuzz.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="509fd80b-d917-4cd1-9b4f-7da6082fb4ce" time="1370523415258" ignored="false" />
@@ -30,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="katafizzbuzz.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="katafizzbuzz.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/katafizzbuzz.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="505" selection-end="505" vertical-scroll-proportion="-11.875">
+            <state line="25" column="43" selection-start="606" selection-end="606" vertical-scroll-proportion="0.6038647">
               <folding />
             </state>
           </provider>
@@ -48,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="katafizzbuzz.test.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="katafizzbuzz.test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katafizzbuzz.test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="10" selection-end="10" vertical-scroll-proportion="0.024154589">
+            <state line="22" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="-13.75">
               <folding />
             </state>
           </provider>
@@ -275,16 +272,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katafizzbuzz.php">
+    <entry file="file://$PROJECT_DIR$/katafizzbuzz.test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="505" selection-end="505" vertical-scroll-proportion="-11.875">
+        <state line="22" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="-13.75">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katafizzbuzz.test.php">
+    <entry file="file://$PROJECT_DIR$/katafizzbuzz.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="10" selection-end="10" vertical-scroll-proportion="0.024154589">
+        <state line="25" column="43" selection-start="606" selection-end="606" vertical-scroll-proportion="0.6038647">
           <folding />
         </state>
       </provider>
